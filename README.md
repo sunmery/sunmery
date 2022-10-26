@@ -37,7 +37,7 @@
 ![JavaScript](https://custom-icon-badges.demolab.com/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white)
 ![Python](https://custom-icon-badges.demolab.com/badge/-Python-%233776AB?logo=Python&logoColor=white)
 ![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-%23339933?logo=Node.js&logoColor=white)
-![MarkDown](https://custom-icon-badges.demolab.com/badge/?logo=&logoColor=white)
+![Markdown](https://custom-icon-badges.demolab.com/badge/-Markdown-%23000000?logo=Markdown&logoColor=white)
 
 ## 🧰 Frameworks and libraries
 
