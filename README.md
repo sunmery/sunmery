@@ -29,6 +29,8 @@
 <!-------------https://simpleicons.org------------->
 <!-------------https://img.shields.io-------------->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lookeke&layout=compact&theme=buefy)](https://juejin.cn/user/2172290708810744/posts)
+
 ## 👨‍💻Programming and markup languages
 
 ![CSharp](https://custom-icon-badges.demolab.com/badge/-C%20Sharp-%23239120?logo=CSharp&logoColor=white)
