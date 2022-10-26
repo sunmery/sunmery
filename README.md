@@ -47,7 +47,7 @@
 ![Vue](https://custom-icon-badges.demolab.com/badge/-Vue.js-%234FC08D?logo=Vue.js&logoColor=white)
 ![Next.js](https://custom-icon-badges.demolab.com/badge/-Next.js-%23000000?logo=Next.js&logoColor=white)
 
-#### Style Components & Style Frameworks & Style Preprocessor
+### Style Components & Style Frameworks & Style Preprocessor
 
 ![TypeScript](https://custom-icon-badges.demolab.com/badge/-TypeScript-%233178C6?logo=TypeScript&logoColor=white)
 ![MUI](https://custom-icon-badges.demolab.com/badge/-MUI-%23007FFF?logo=MUI&logoColor=white)
@@ -56,7 +56,7 @@
 ![styled-components](https://custom-icon-badges.demolab.com/badge/-styled--components-%23DB7093?logo=styled-components&logoColor=white)
 ![Bootstrap](https://custom-icon-badges.demolab.com/badge/-Bootstrap-%237952B3?logo=Bootstrap&logoColor=white)
 
-#### Libraries
+### Libraries
 
 ![Apache ECharts](https://custom-icon-badges.demolab.com/badge/-Apache%20ECharts-AA344D.svg?logo=ApacheECharts&logoColor=white)
 ![ReactRouter](https://custom-icon-badges.demolab.com/badge/-React%20Router-%23CA4245?logo=ReactRouter&logoColor=white)
@@ -89,7 +89,7 @@
 ![Electron](https://custom-icon-badges.demolab.com/badge/-Electron-%2347848F?logo=Electron&logoColor=white)
 ![Tauri](https://custom-icon-badges.demolab.com/badge/-Tauri-%23FFC131?logo=Tauri&logoColor=white)
 
-## 🗄️ Databases and cloud hosting
+## 🗄️Databases and cloud hosting
 
 ![MySQL](https://custom-icon-badges.demolab.com/badge/-MySQL-%234479A1?logo=MySQL&logoColor=white)
 ![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-%2347A248?logo=MongoDB&logoColor=white)
@@ -114,14 +114,14 @@
 
 <!-------------Used tools start-------------------->
 
-### 💻 Software and tools
+## 💻 Software and tools
 
-#### UI
+### UI
 
 ![AdobePhotoshop](https://custom-icon-badges.demolab.com/badge/-Adobe%20Photoshop-%2331A8FF?logo=AdobePhotoshop&logoColor=white)
 ![AdobeIllustrator](https://custom-icon-badges.demolab.com/badge/-Adobe%20Illustrator-%23FF9A00?logo=AdobeIllustrator&logoColor=white)
 
-#### IDE
+### IDE
 
 ![AdobeDreamweaver](https://custom-icon-badges.demolab.com/badge/-Adobe%20Dreamweaver-%23FF61F6?logo=AdobeDreamweaver&logoColor=white)
 ![VisualStudioCode](https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-%23007ACC?logo=VisualStudioCode&logoColor=white)
@@ -131,7 +131,7 @@
 ![DataGrip](https://custom-icon-badges.demolab.com/badge/-DataGrip-%23000000?logo=DataGrip&logoColor=white)
 ![Sourcetree](https://custom-icon-badges.demolab.com/badge/-Sourcetree-%230052CC?logo=Sourcetree&logoColor=white)
 
-#### Browser
+### Browser
 
 ![MozillaFirefox](https://custom-icon-badges.demolab.com/badge/-Mozilla%20Firefox-%234285F4?logo=FirefoxBrowser&logoColor=white)
 ![GoogleChrome](https://custom-icon-badges.demolab.com/badge/-Google%20Chrome-%234285F4?logo=GoogleChrome&logoColor=white)
