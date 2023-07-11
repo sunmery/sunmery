@@ -15,7 +15,7 @@
 - 😄 Read more about my [Blog](http://www.lookeke.cc/) (under construction)
 - 👯 Follow me on [掘金](https://juejin.cn/user/2172290708810744)
 - 🌱 I’m currently learning React
-- 🔭 I’m currently working on feishu, this is student topic
+- 🔭 I’m currently working on PostgreSQL, this is student topic
 - 📫 How to reach me: xiconz@qq.com
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
