@@ -2,7 +2,7 @@
 
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
-  Hi there! I'm LiXia~ 21 years old student at <a href="https://www.um.edu.mo/">Macau University</a>
+<!--   Hi there! I'm LiXia~ 21 years old student at <a href="https://www.um.edu.mo/">Macau University</a> -->
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
 
@@ -14,7 +14,7 @@
 
 - 😄 Read more about my [Blog](http://www.lookeke.cc/) (under construction)
 - 👯 Follow me on [掘金](https://juejin.cn/user/2172290708810744)
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Golang
 - 🔭 I’m currently working on DevOps
 - 📫 How to reach me: xiconz@qq.com
 
