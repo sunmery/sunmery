@@ -12,9 +12,9 @@
   </section>
 </a>
 
-- 😄 Read more about my [Blog](http://www.lookeke.cc/) (under construction)
+- 😄 Read more about my [Blog](http://www.lookeke.com/)
 - 👯 Follow me on [掘金](https://juejin.cn/user/2172290708810744)
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang C++
 - 🔭 I’m currently working on DevOps
 - 📫 How to reach me: xiconz@qq.com
 
