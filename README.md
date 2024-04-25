@@ -1,8 +1,25 @@
+---
+sidebar_position: 1
+---
+
+# About
+
+## 历程
+1. 2018年开始接触计算机, 启蒙语言是Java, 后面开始跟老师学前端(HTML + CSS + Javascript)
+2. 同年报名计算机融媒体技术比赛团体赛, 正式学习HTML + CSS + Javascript, 比赛时主要负责移动端的H5作品CSS的绘制(CSS原生动画animations).
+3. 比赛结束后开始学习Vue生态.
+4. 后毕业, 进入新学校学习, 技术是Java基础/Spring MVC基础/Python深度学习/Oracle数据库设计/Linux基础, 开始对React感兴趣, 对React生态感到满意, 然后断断续续学习React, 期间学习了Next.js的React上层框架与前端工程化, 并编写与维护自己的博客网站并在各平台维护编写自己的文章.
+5. 在做一次作业时, 发现没有系统地学习任何后端, 后开始尝试Golang, 并开始喜欢它的性能(与Java/Python对比)与其语言的简洁性.
+6. 在了解Golang之后, 并对它开始深入了解, 并学习云原生运维技术(Docker/Kubernetes)与Linux命令式编程, 从0搭建Kubernetes, 并对前端与后端应用进行编排.
+7. 在学习完Golang基本知识后走向微服务,使用微服务框架Kratos, 并与MongoDB/Redis/Postgres等关系型与NoSQL数据库结合使用, 使用MinIO存储静态文件
+8. 利用后端技术与运维技术相结合完成了两套: (Gitlab CI + Gitlab Runner) 与 (Gitlab CI + Jenkins + ArgoCD)的DevOps工程化, 接触微服务的组件, 研究可观测性, 并对微服务中的服务治理(Consul), 日志监控(EFK), 容器编排(Kubernetes/Docker), 远程过程调用(gRPC), 集成了身份认证与授权(Casbin), 镜像管理(Harbor)
+9. 研究可观测性工具OpenTelemetry, 对Golang服务端应用进行监控HTTP/gRPC请求, 日志追踪, 应用指标,通过Kafka接收数据,使用kiali/Jaeger/Prometheus/Grafana等组件进行采集/可视化应用与数据库的指标/日志/链路
+
+## 介绍
 <!-------------self-introduction start------------->
 
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
-<!--   Hi there! I'm LiXia~ 21 years old student at <a href="https://www.um.edu.mo/">Macau University</a> -->
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
 
@@ -31,114 +48,93 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lookeke&layout=compact&theme=buefy)](https://juejin.cn/user/2172290708810744/posts)
 
-## 👨‍💻Programming and markup languages
+### Back-end Language
+- Golang
+- C++
 
-![CSharp](https://custom-icon-badges.demolab.com/badge/-C%20Sharp-%23239120?logo=CSharp&logoColor=white) has stopped studying
-![HTML5](https://custom-icon-badges.demolab.com/badge/-HTML5-%23E34F26?logo=HTML5&logoColor=white)
-![CSS3](https://custom-icon-badges.demolab.com/badge/-CSS3-%231572B6?logo=CSS3&logoColor=white)
-![JavaScript](https://custom-icon-badges.demolab.com/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white)
-![Python](https://custom-icon-badges.demolab.com/badge/-Python-%233776AB?logo=Python&logoColor=white) has stopped studying
-![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-%23339933?logo=Node.js&logoColor=white) has stopped studying
-![Markdown](https://custom-icon-badges.demolab.com/badge/-Markdown-%23000000?logo=Markdown&logoColor=white)
+## 🗄️Microservice 微服务生态
 
-## 🧰 Frameworks and libraries
+### Observability 可观测性
+- OpenTelemetry: 指标, 日志, 链路
+- kiali: 链路地图
+- Jaeger: 分布式链路追踪
+- Prometheus: 指标采集
+- Grafana: 遥测数据可视化
+- EFK: 日志存储/查询
 
-### Front-end technology stack
+### Data Serialization Formats 数据序列化格式
+- protobuf: 二进制JSON存储
+- JSON: 使用简单, 与前端交换数据方便
+- YAML: 简洁, 常用于报错配置
 
-![React](https://custom-icon-badges.demolab.com/badge/-React-%2361DAFB?logo=React&logoColor=white)
-![Vue](https://custom-icon-badges.demolab.com/badge/-Vue.js-%234FC08D?logo=Vue.js&logoColor=white) has stopped studying
-![Next.js](https://custom-icon-badges.demolab.com/badge/-Next.js-%23000000?logo=Next.js&logoColor=white) has stopped studying
+### Service Governance 服务治理
+- Consul
 
-### Style Components & Style Frameworks & Style Preprocessor
+### Container orchestration 容器编排
+- Kubernetes
+- Docker
 
-![TypeScript](https://custom-icon-badges.demolab.com/badge/-TypeScript-%233178C6?logo=TypeScript&logoColor=white)
-![MUI](https://custom-icon-badges.demolab.com/badge/-MUI-%23007FFF?logo=MUI&logoColor=white)
-![Sass](https://custom-icon-badges.demolab.com/badge/-Sass-%23CC6699?logo=Sass&logoColor=white)
-![TailwindCSS](https://custom-icon-badges.demolab.com/badge/-Tailwind%20CSS-%2306B6D4?logo=TailwindCSS&logoColor=white) no used
-![styled-components](https://custom-icon-badges.demolab.com/badge/-styled--components-%23DB7093?logo=styled-components&logoColor=white) no used
-![Bootstrap](https://custom-icon-badges.demolab.com/badge/-Bootstrap-%237952B3?logo=Bootstrap&logoColor=white) no used
+### Message queue 消息队列
+- kafka
 
-### Libraries
+### RPC 远程过程调用
+- gRPC
+- Kratos
 
-![Apache ECharts](https://custom-icon-badges.demolab.com/badge/-Apache%20ECharts-AA344D.svg?logo=ApacheECharts&logoColor=white)
-![ReactRouter](https://custom-icon-badges.demolab.com/badge/-React%20Router-%23CA4245?logo=ReactRouter&logoColor=white)
-![ReactQuery](https://custom-icon-badges.demolab.com/badge/-React%20Query-%23FF4154?logo=ReactQuery&logoColor=white)
-![Redux](https://custom-icon-badges.demolab.com/badge/-Redux-%23764ABC?logo=Redux&logoColor=white) has stopped studying
-![CreateReactApp](https://custom-icon-badges.demolab.com/badge/-Create%20React%20App-%2309D3AC?logo=CreateReactApp&logoColor=white) has stopped studying
-![Webpack](https://custom-icon-badges.demolab.com/badge/-Webpack-%238DD6F9?logo=Webpack&logoColor=white) has stopped studying
-![Vite](https://custom-icon-badges.demolab.com/badge/-Vite-%23646CFF?logo=Vite&logoColor=white)
-![Jest](https://custom-icon-badges.demolab.com/badge/-Jest-%23C21325?logo=Jest&logoColor=white) no used
-![Mocha](https://custom-icon-badges.demolab.com/badge/-Mocha-%238D6748?logo=Mocha&logoColor=white) has stopped studying
-![Chai](https://custom-icon-badges.demolab.com/badge/-Chai-%23A30701?logo=Chai&logoColor=white) has stopped studying
-![RxJS](https://custom-icon-badges.demolab.com/badge/-ReactiveX-%23B7178C?logo=ReactiveX&logoColor=white) 
-![WordPress](https://custom-icon-badges.demolab.com/badge/-WordPress-%2321759B?logo=WordPress&logoColor=white) has stopped studying
+### safety 安全性
+#### Authentication 认证
+- JWT
 
-### Back-end technology stack
+#### Authorization 授权
+- Casbin
 
-![Spring](https://custom-icon-badges.demolab.com/badge/-Spring-%236DB33F?logo=Spring&logoColor=white) has stopped studying
-![GraphQL](https://custom-icon-badges.demolab.com/badge/-GraphQL-%23E10098?logo=GraphQL&logoColor=white) has stopped studying
-![ApolloGraphQL](https://custom-icon-badges.demolab.com/badge/-Apollo%20GraphQL-%23311C87?logo=ApolloGraphQL&logoColor=white) has stopped studying
-![Express](https://custom-icon-badges.demolab.com/badge/-Express-%23000000?logo=Express&logoColor=white) has stopped studying
-![PM2](https://custom-icon-badges.demolab.com/badge/-PM2-%232B037A?logo=PM2&logoColor=white) has stopped studying
-![ts-node](https://custom-icon-badges.demolab.com/badge/-ts--node-%233178C6?logo=ts-node&logoColor=white) no used
-![Nodemon](https://custom-icon-badges.demolab.com/badge/-Nodemon-%2376D04B?logo=Nodemon&logoColor=white) no used
-![JUnit5](https://custom-icon-badges.demolab.com/badge/-JUnit5-%2325A162?logo=JUnit5&logoColor=white) has stopped studying
-![TensorFlow](https://custom-icon-badges.demolab.com/badge/-TensorFlow-%23FF6F00?logo=TensorFlow&logoColor=white) has stopped studying
-![NumPy](https://custom-icon-badges.demolab.com/badge/-NumPy-%23013243?logo=NumPy&logoColor=white) has stopped studying
+### Database and Cache 数据库与缓存
+- PostgresQL
+- ![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-%2347A248?logo=MongoDB&logoColor=white)
+- Redis
 
-## Client
+### DevOps 开发与运维
+#### CI
+- Gitlab CI
+- Github Action
 
-![Electron](https://custom-icon-badges.demolab.com/badge/-Electron-%2347848F?logo=Electron&logoColor=white)
-![Tauri](https://custom-icon-badges.demolab.com/badge/-Tauri-%23FFC131?logo=Tauri&logoColor=white) no used
+#### CD
+- Argocd
+- Jenkins
 
-## 🗄️Databases and cloud hosting
+## Front-end ecosystem
 
-![MySQL](https://custom-icon-badges.demolab.com/badge/-MySQL-%234479A1?logo=MySQL&logoColor=white) no used
-![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-%2347A248?logo=MongoDB&logoColor=white) no used
-![Vercel](https://custom-icon-badges.demolab.com/badge/-Vercel-%23000000?logo=Vercel&logoColor=white) no used
-## Package management
+### Framework
+- ![React](https://custom-icon-badges.demolab.com/badge/-React-%2361DAFB?logo=React&logoColor=white)
+- ![Vue](https://custom-icon-badges.demolab.com/badge/-Vue.js-%234FC08D?logo=Vue.js&logoColor=white)
+- ![Next.js](https://custom-icon-badges.demolab.com/badge/-Next.js-%23000000?logo=Next.js&logoColor=white)
+- ![TypeScript](https://custom-icon-badges.demolab.com/badge/-TypeScript-%233178C6?logo=TypeScript&logoColor=white)
 
-![npm](https://custom-icon-badges.demolab.com/badge/-npm-%23CB3837?logo=npm&logoColor=white) has stopped studying
-![Yarn](https://custom-icon-badges.demolab.com/badge/-Yarn-%232C8EBB?logo=Yarn&logoColor=white) has stopped studying
-![pnpm](https://custom-icon-badges.demolab.com/badge/-pnpm-%23F69220?logo=pnpm&logoColor=white)
+### Lib
+- ![MUI](https://custom-icon-badges.demolab.com/badge/-MUI-%23007FFF?logo=MUI&logoColor=white)
+- ![Sass](https://custom-icon-badges.demolab.com/badge/-Sass-%23CC6699?logo=Sass&logoColor=white)
+- ![styled-components](https://custom-icon-badges.demolab.com/badge/-styled--components-%23DB7093?logo=styled-components&logoColor=white)
+- ![Bootstrap](https://custom-icon-badges.demolab.com/badge/-Bootstrap-%237952B3?logo=Bootstrap&logoColor=white)
+- ![Apache ECharts](https://custom-icon-badges.demolab.com/badge/-Apache%20ECharts-AA344D.svg?logo=ApacheECharts&logoColor=white)
+- ![ReactRouter](https://custom-icon-badges.demolab.com/badge/-React%20Router-%23CA4245?logo=ReactRouter&logoColor=white)
+- ![ReactQuery](https://custom-icon-badges.demolab.com/badge/-React%20Query-%23FF4154?logo=ReactQuery&logoColor=white)
+- ![Redux](https://custom-icon-badges.demolab.com/badge/-Redux-%23764ABC?logo=Redux&logoColor=white)
+- ![CreateReactApp](https://custom-icon-badges.demolab.com/badge/-Create%20React%20App-%2309D3AC?logo=CreateReactApp&logoColor=white)
+- ![Webpack](https://custom-icon-badges.demolab.com/badge/-Webpack-%238DD6F9?logo=Webpack&logoColor=white)
+- ![Vite](https://custom-icon-badges.demolab.com/badge/-Vite-%23646CFF?logo=Vite&logoColor=white)
+- ![Jest](https://custom-icon-badges.demolab.com/badge/-Jest-%23C21325?logo=Jest&logoColor=white)
+- ![Mocha](https://custom-icon-badges.demolab.com/badge/-Mocha-%238D6748?logo=Mocha&logoColor=white)
+- ![Chai](https://custom-icon-badges.demolab.com/badge/-Chai-%23A30701?logo=Chai&logoColor=white)
+- ![RxJS](https://custom-icon-badges.demolab.com/badge/-ReactiveX-%23B7178C?logo=ReactiveX&logoColor=white)
+- ![Electron](https://custom-icon-badges.demolab.com/badge/-Electron-%2347848F?logo=Electron&logoColor=white)
+- ![Tauri](https://custom-icon-badges.demolab.com/badge/-Tauri-%23FFC131?logo=Tauri&logoColor=white)
 
-## Version management
-
-![Git](https://custom-icon-badges.demolab.com/badge/-Git-%23F05032?logo=Git&logoColor=white)
-
-### Operation and maintenance
-
-![CentOS](https://custom-icon-badges.demolab.com/badge/-CentOS-%23262577?logo=CentOS&logoColor=white)
-![Docker](https://custom-icon-badges.demolab.com/badge/-Docker-%232496ED?logo=Docker&logoColor=white)
-
-<!-------------learned language end---------------->
-
-<!-------------Used tools start-------------------->
+### Package management
+- ![npm](https://custom-icon-badges.demolab.com/badge/-npm-%23CB3837?logo=npm&logoColor=white)
+- ![Yarn](https://custom-icon-badges.demolab.com/badge/-Yarn-%232C8EBB?logo=Yarn&logoColor=white)
+- ![pnpm](https://custom-icon-badges.demolab.com/badge/-pnpm-%23F69220?logo=pnpm&logoColor=white)
 
 ## 💻 Software and tools
-
-### UI
-
-![AdobePhotoshop](https://custom-icon-badges.demolab.com/badge/-Adobe%20Photoshop-%2331A8FF?logo=AdobePhotoshop&logoColor=white) has stopped studying
-![AdobeIllustrator](https://custom-icon-badges.demolab.com/badge/-Adobe%20Illustrator-%23FF9A00?logo=AdobeIllustrator&logoColor=white) has stopped studying
-
-### IDE
-
-![AdobeDreamweaver](https://custom-icon-badges.demolab.com/badge/-Adobe%20Dreamweaver-%23FF61F6?logo=AdobeDreamweaver&logoColor=white) no used
-![VisualStudioCode](https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-%23007ACC?logo=VisualStudioCode&logoColor=white) no used
-![PyCharm](https://custom-icon-badges.demolab.com/badge/-PyCharm-%23000000?logo=PyCharm&logoColor=white) no used
-![WebStorm](https://custom-icon-badges.demolab.com/badge/-WebStorm-%23000000?logo=WebStorm&logoColor=white)
-![IntelliJIDEA](https://custom-icon-badges.demolab.com/badge/-IntelliJ%20IDEA-%23000000?logo=IntelliJIDEA&logoColor=white)
-![DataGrip](https://custom-icon-badges.demolab.com/badge/-DataGrip-%23000000?logo=DataGrip&logoColor=white)
-![Sourcetree](https://custom-icon-badges.demolab.com/badge/-Sourcetree-%230052CC?logo=Sourcetree&logoColor=white)
-
-### Browser
-
-![MozillaFirefox](https://custom-icon-badges.demolab.com/badge/-Mozilla%20Firefox-%234285F4?logo=FirefoxBrowser&logoColor=white)
-![GoogleChrome](https://custom-icon-badges.demolab.com/badge/-Google%20Chrome-%234285F4?logo=GoogleChrome&logoColor=white)
-![MicrosoftEdge](https://custom-icon-badges.demolab.com/badge/-Microsoft%20Edge-%230078D7?logo=MicrosoftEdge&logoColor=white)
-
-<!-------------Used tools end---------------------->
 
 ## ⭐ Github Star
 
