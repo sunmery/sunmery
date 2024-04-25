@@ -23,9 +23,9 @@ sidebar_position: 1
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
 
-<a href="https://github.com/lookeke">
+<a href="https://github.com/sunmery">
   <section align="right" >
-    <img align="right" src="https://lookeke.cc" alt="Lookeke" />
+    <img align="right" src="https://lookeke.com" alt="sunmery" />
   </section>
 </a>
 
@@ -138,7 +138,7 @@ sidebar_position: 1
 
 ## ⭐ Github Star
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lookeke&count_private=true&show_icons=true"/>
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sunmery&count_private=true&show_icons=true"/>
 
 ## GitHub status
 
