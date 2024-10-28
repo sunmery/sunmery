@@ -38,7 +38,6 @@ sidebar_position: 1
 
 ### Back-end Language
 - Golang
-- C++
 
 ## 🗄️Microservice 微服务生态
 
@@ -48,7 +47,6 @@ sidebar_position: 1
 - Jaeger: 分布式链路追踪
 - Prometheus: 指标采集
 - Grafana: 遥测数据可视化
-- EFK: 日志存储/查询
 
 ### Data Serialization Formats 数据序列化格式
 - protobuf: 二进制JSON存储
