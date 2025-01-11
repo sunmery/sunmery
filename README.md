@@ -11,7 +11,6 @@ sidebar_position: 1
 </h3>
 
 - Read more about my [Blog](https://blog-gamma-two-81.vercel.app/)
-- Follow me on [Juejin](https://juejin.cn/user/2172290708810744)
 - 🌱 I’m currently Golang
 - 🔭 I’m currently working on Microservices and Cloud Native 
 
