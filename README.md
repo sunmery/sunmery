@@ -10,11 +10,10 @@ sidebar_position: 1
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
 
-- 😄 Read more about my [Blog](https://blog-gamma-two-81.vercel.app/)
-- 👯 Follow me on [Juejin](https://juejin.cn/user/2172290708810744)
-- 🌱 I’m currently learning Golang
+- Read more about my [Blog](https://blog-gamma-two-81.vercel.app/)
+- Follow me on [Juejin](https://juejin.cn/user/2172290708810744)
+- 🌱 I’m currently Golang
 - 🔭 I’m currently working on Microservices and Cloud Native 
-- 📫 How to reach me: xiconz@qq.com
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
