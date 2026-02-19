@@ -9,3 +9,4 @@
 - Full-stack / Backend-oriented Graduate
 - Polyglot Programmer
 - Well-versed in Software Development Life Cycle (SDLC)
+- Senior High School Teacher Certification (Information Technology)
